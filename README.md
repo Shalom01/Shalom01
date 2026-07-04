@@ -3,16 +3,16 @@
 **Citizenships:** 🇨🇦 🇺🇸
 
 Systems engineer and researcher in lock-free concurrency and low-latency performance
-engineering. MSc, Distributed Systems (York University), published at OPODIS 2023 on
-wait-free concurrent data structures. Also designed the first concurrent data structure whose
-bound adapts to access patterns (under review), implemented in LockFreeContainers below.
+engineering.
 
-I point that same rigor at making mental-health and behavioral care **affordable and easy to
-access**. That's why I built a HIPAA-compliant platform for an ABA therapy company in the
-U.S.: full stack (Next.js/AWS/PostgreSQL), solo, zero to production, cutting the
-administrative overhead that makes behavioral care expensive and hard to schedule. I'm
-AI-native and bring AI into the product work I do, on top of the classical-algorithms
-research behind the systems side.
+- MSc, Distributed Systems (York University); published at OPODIS 2023 on wait-free
+  concurrent data structures.
+- Designed the first concurrent data structure whose bound adapts to access patterns (under
+  review), implemented in LockFreeContainers below.
+- Built a HIPAA-compliant platform for a U.S. ABA therapy company, solo, zero to production,
+  to make mental-health and behavioral care **affordable and easy to access**.
+- AI-native: bring AI into the product work I do, on top of the classical-algorithms research
+  behind the systems side.
 
 ## Currently interested in
 
