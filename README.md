@@ -9,7 +9,7 @@ engineering.
   review), implemented in LockFreeContainers below.
 - Built a HIPAA-compliant platform for a U.S. ABA therapy company, solo, zero to production,
   to make mental-health and behavioral care **affordable and easy to access**.
-- AI-native: bring AI into the product work I do, on top of the classical-algorithms research
+- Build with AI daily on the product work, on top of the classical-algorithms research
   behind the systems side.
 
 ## Currently interested in
