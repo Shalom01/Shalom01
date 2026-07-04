@@ -4,7 +4,9 @@
 
 Systems engineer and researcher in lock-free concurrency and low-latency performance
 engineering. MSc, Distributed Systems (York University), published at OPODIS 2023 on
-wait-free concurrent data structures.
+wait-free concurrent data structures. Also designed the first concurrent data structure with
+a bound that adapts to real access patterns rather than the worst case (a self-adjusting
+move-to-front list, currently under review), implemented in LockFreeContainers below.
 
 I point that same rigor at making mental-health and behavioral care **affordable and easy to
 access**. That's why I built a HIPAA-compliant platform for an ABA therapy company in the
