@@ -7,8 +7,6 @@ engineering.
   concurrent data structures.
 - Designed the first concurrent data structure with a working set bound (under
   review), implemented in LockFreeContainers below.
-- Built a HIPAA-compliant platform for a U.S. ABA therapy company, solo, zero to production,
-  to make mental-health and behavioral care **affordable and easy to access**.
 
 ## Currently interested in
 
@@ -23,7 +21,7 @@ engineering.
 
 | Project | Description |
 |---|---|
-| [ABA therapy platform (proprietary, IP owned by me)](https://intellaplayaba.com) | HIPAA-compliant platform for a U.S. ABA therapy company: marketing site + client CRM/portal, built and run solo on AWS to cut the overhead that makes care hard to access. |
+| [ABA therapy platform (proprietary, IP owned by me)]| HIPAA-compliant platform for a U.S. ABA therapy company: marketing site + client CRM/portal, built and run solo on AWS to cut the overhead that makes care hard to access. |
 | [LockFreeContainers](https://github.com/shalom01/LockFreeContainers) | C++17 lock-free data structures (Treiber stack, wait-free SPSC ring buffer, self-adjusting move-to-front list) with pluggable memory reclamation, including Brown's epoch-based reclamation (DEBRA). |
 | [HandwrittenDigitClassifier](https://github.com/shalom01/HandwrittenDigitClassifier) | MNIST digit classifiers built from scratch in NumPy (manual forward/backprop, gradient checker) to understand how models actually work at the math level, then rebuilt in PyTorch. |
 | [MailServer](https://github.com/shalom01/MailServer) | SMTP/POP3 mail server built from the RFCs. |
