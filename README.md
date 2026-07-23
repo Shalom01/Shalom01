@@ -3,10 +3,9 @@
 Systems engineer and researcher in lock-free concurrency and low-latency performance
 engineering.
 
-- MSc, Distributed Systems (York University); published at OPODIS 2023 on wait-free
-  concurrent data structures.
-- Designed the first concurrent data structure with a working set bound (under
-  review), implemented in LockFreeContainers below.
+- MSc, Distributed Systems (York University)
+- Designed the concurrent deque with the best amortized step complexity (OPODIS 2024)
+- Designed the first concurrent data structure with a working set bound (DISC 2026), implemented in LockFreeContainers below.
 
 ## Currently working on
 
@@ -23,9 +22,9 @@ engineering.
 | [LockFreeContainers](https://github.com/shalom01/LockFreeContainers) | C++17 lock-free data structures (Treiber stack, wait-free SPSC ring buffer, self-adjusting move-to-front list) with pluggable memory reclamation, including Brown's epoch-based reclamation (DEBRA). |
 | [HandwrittenDigitClassifier](https://github.com/shalom01/HandwrittenDigitClassifier) | MNIST digit classifiers built from scratch in NumPy (manual forward/backprop, gradient checker) to understand how models actually work at the math level, then rebuilt in PyTorch. |
 | [MailServer](https://github.com/shalom01/MailServer) | SMTP/POP3 mail server built from the RFCs. |
-| Cilinio (proprietary)| HIPAA-compliant automation platform that is used by U.S. therapy companies to cut down the work that makes care hard to access. |
+| Cliniflow | clinical automation company providing services in Canada and the United States. |
 
-Most of my recent production work is closed-source and not linked above.
+Most of my recent work is closed-source and not linked above.
 
 ## Links
 
