@@ -6,7 +6,7 @@ engineering.
 - MSc, Distributed Systems (York University)
 - Designed the concurrent deque with the best amortized step complexity (OPODIS 2024)
 - Designed the first concurrent data structure with a working set bound (DISC 2026)
-- Co-founded Cliniflow (2026), a clinical software company currently servicing therapy practices in the US and Canada
+- Co-founded Cliniflow (2026), a clinical automation providor currently servicing therapy practices in the US and Canada
   
 ## Currently working on
 
