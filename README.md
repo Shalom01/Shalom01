@@ -21,8 +21,6 @@ engineering.
 | Project | Description |
 |---|---|
 | [LockFreeContainers](https://github.com/shalom01/LockFreeContainers) | C++17 lock-free data structures (Treiber stack, wait-free SPSC ring buffer, self-adjusting move-to-front list) with pluggable memory reclamation, including Brown's epoch-based reclamation (DEBRA). |
-| [HandwrittenDigitClassifier](https://github.com/shalom01/HandwrittenDigitClassifier) | MNIST digit classifiers built from scratch in NumPy (manual forward/backprop, gradient checker) to understand how models actually work at the math level, then rebuilt in PyTorch. |
-| [MailServer](https://github.com/shalom01/MailServer) | SMTP/POP3 mail server built from the RFCs. |
 
 Most of my recent work is closed-source and not linked above.
 
